@@ -1,0 +1,15 @@
+{
+  "name": "lumby-guide",
+  "version": "1.0.0",
+  "description": "Coding practice for me. Currently can give random colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me!",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0"
+  }
+}

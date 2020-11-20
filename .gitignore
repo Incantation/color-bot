@@ -1,0 +1,14 @@
+#next.js build output
+.next
+
+build/**
+config.**
+
+java/.idea/
+java/node_modules/
+
+#javascript sensitive information
+java/config.js
+
+#python sensitive information
+python/.env
