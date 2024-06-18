@@ -9,7 +9,7 @@
   "author": "me!",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "^11.6.4",
     "discord.js-commando": "^0.10.0"
   }
 }
